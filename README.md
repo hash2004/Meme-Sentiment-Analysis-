@@ -27,3 +27,6 @@ The application initializes three machine learning models (Decision Tree, K-Near
 - Random Forest
 
 These models are loaded from pre-trained `.pkl` files and used for making predictions.
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/license/MIT)- see the LICENSE file for details.
